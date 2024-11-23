@@ -4,5 +4,4 @@ export default function Portfolio() {
         Portfolio page
       </div>
     );
-  }
-  
+  }  
